@@ -71,9 +71,8 @@ function calcBewegeung($person) {
     $pal = $pal / 24;
     return $pal;
 }
-
-
 ?>
+
 
 <!--Frontend durch KI-->
 <!doctype html>
